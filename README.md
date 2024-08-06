@@ -1,2 +1,3 @@
-# Revit-API-first-exercise-project
-Revit API student project. Selection and extraction of elements, creation of instances/
+# Revit API first exercise project
+## Revit API C# student project
+Revit addin with several commands, which perform extraction of elements, data collection and instaces creation
