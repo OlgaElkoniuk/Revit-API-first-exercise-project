@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{866CE3B8-EE89-419A-B56D-A61FD31298BC}|RevitAPI_Course.csproj|d:\\olga work 02.08.2024\\revit c course\\revitapi_course\\commands\\07_familywithdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866CE3B8-EE89-419A-B56D-A61FD31298BC}|RevitAPI_Course.csproj|solutionrelative:commands\\07_familywithdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866CE3B8-EE89-419A-B56D-A61FD31298BC}|RevitAPI_Course.csproj|d:\\olga work 02.08.2024\\revit c course\\revitapi_course\\commands\\06_familyinstancecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866CE3B8-EE89-419A-B56D-A61FD31298BC}|RevitAPI_Course.csproj|solutionrelative:commands\\06_familyinstancecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866CE3B8-EE89-419A-B56D-A61FD31298BC}|RevitAPI_Course.csproj|d:\\olga work 02.08.2024\\revit c course\\revitapi_course\\extraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866CE3B8-EE89-419A-B56D-A61FD31298BC}|RevitAPI_Course.csproj|solutionrelative:extraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866CE3B8-EE89-419A-B56D-A61FD31298BC}|RevitAPI_Course.csproj|d:\\olga work 02.08.2024\\revit c course\\revitapi_course\\commands\\02_selectionofobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866CE3B8-EE89-419A-B56D-A61FD31298BC}|RevitAPI_Course.csproj|solutionrelative:commands\\02_selectionofobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866CE3B8-EE89-419A-B56D-A61FD31298BC}|RevitAPI_Course.csproj|D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\commands\\01_messagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866CE3B8-EE89-419A-B56D-A61FD31298BC}|RevitAPI_Course.csproj|solutionrelative:commands\\01_messagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866CE3B8-EE89-419A-B56D-A61FD31298BC}|RevitAPI_Course.csproj|d:\\olga work 02.08.2024\\revit c course\\revitapi_course\\commands\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866CE3B8-EE89-419A-B56D-A61FD31298BC}|RevitAPI_Course.csproj|solutionrelative:commands\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RevitAPI_Course||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866CE3B8-EE89-419A-B56D-A61FD31298BC}|RevitAPI_Course.csproj|D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\commands\\00_mainaddinstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866CE3B8-EE89-419A-B56D-A61FD31298BC}|RevitAPI_Course.csproj|solutionrelative:commands\\00_mainaddinstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.cs",
+              "DocumentMoniker": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\Commands\\App.cs",
+              "RelativeDocumentMoniker": "Commands\\App.cs",
+              "ToolTip": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\Commands\\App.cs",
+              "RelativeToolTip": "Commands\\App.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB0AAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:04:28.908Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extraction.cs",
+              "DocumentMoniker": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\Extraction.cs",
+              "RelativeDocumentMoniker": "Extraction.cs",
+              "ToolTip": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\Extraction.cs",
+              "RelativeToolTip": "Extraction.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:34:45.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "02_SelectionOfObjects.cs",
+              "DocumentMoniker": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\Commands\\02_SelectionOfObjects.cs",
+              "RelativeDocumentMoniker": "Commands\\02_SelectionOfObjects.cs",
+              "ToolTip": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\Commands\\02_SelectionOfObjects.cs",
+              "RelativeToolTip": "Commands\\02_SelectionOfObjects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:26:41.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "07_FamilyWithData.cs",
+              "DocumentMoniker": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\Commands\\07_FamilyWithData.cs",
+              "RelativeDocumentMoniker": "Commands\\07_FamilyWithData.cs",
+              "ToolTip": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\Commands\\07_FamilyWithData.cs",
+              "RelativeToolTip": "Commands\\07_FamilyWithData.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:17:33.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "06_FamilyInstanceCreation.cs",
+              "DocumentMoniker": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\Commands\\06_FamilyInstanceCreation.cs",
+              "RelativeDocumentMoniker": "Commands\\06_FamilyInstanceCreation.cs",
+              "ToolTip": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\Commands\\06_FamilyInstanceCreation.cs",
+              "RelativeToolTip": "Commands\\06_FamilyInstanceCreation.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:17:19.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RevitAPI_Course",
+              "DocumentMoniker": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\RevitAPI_Course.csproj",
+              "RelativeDocumentMoniker": "RevitAPI_Course.csproj",
+              "ToolTip": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\RevitAPI_Course.csproj",
+              "RelativeToolTip": "RevitAPI_Course.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-04T22:01:01.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "00_MainAddinStructure.cs",
+              "DocumentMoniker": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\Commands\\00_MainAddinStructure.cs",
+              "RelativeDocumentMoniker": "Commands\\00_MainAddinStructure.cs",
+              "ToolTip": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\Commands\\00_MainAddinStructure.cs",
+              "RelativeToolTip": "Commands\\00_MainAddinStructure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:54:37.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "01_MessageTest.cs",
+              "DocumentMoniker": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\Commands\\01_MessageTest.cs",
+              "RelativeDocumentMoniker": "Commands\\01_MessageTest.cs",
+              "ToolTip": "D:\\Olga work 02.08.2024\\Revit C course\\RevitAPI_Course\\Commands\\01_MessageTest.cs",
+              "RelativeToolTip": "Commands\\01_MessageTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:55:02.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

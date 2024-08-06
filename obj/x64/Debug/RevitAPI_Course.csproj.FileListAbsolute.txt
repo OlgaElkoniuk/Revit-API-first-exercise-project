@@ -1,0 +1,12 @@
+D:\Olga work\Revit C course\RevitAPI_Course\obj\x64\Debug\RevitAPI_Course.csproj.AssemblyReference.cache
+D:\Olga work\Revit C course\RevitAPI_Course\obj\x64\Debug\RevitAPI_Course.csproj.CoreCompileInputs.cache
+D:\Olga work\Revit C course\RevitAPI_Course\bin\x64\Debug\RevitAPI_Course.dll
+D:\Olga work\Revit C course\RevitAPI_Course\bin\x64\Debug\RevitAPI_Course.pdb
+D:\Olga work\Revit C course\RevitAPI_Course\obj\x64\Debug\RevitAPI_Course.dll
+D:\Olga work\Revit C course\RevitAPI_Course\obj\x64\Debug\RevitAPI_Course.pdb
+D:\Olga work 02.08.2024\Revit C course\RevitAPI_Course\bin\x64\Debug\RevitAPI_Course.dll
+D:\Olga work 02.08.2024\Revit C course\RevitAPI_Course\bin\x64\Debug\RevitAPI_Course.pdb
+D:\Olga work 02.08.2024\Revit C course\RevitAPI_Course\obj\x64\Debug\RevitAPI_Course.csproj.AssemblyReference.cache
+D:\Olga work 02.08.2024\Revit C course\RevitAPI_Course\obj\x64\Debug\RevitAPI_Course.csproj.CoreCompileInputs.cache
+D:\Olga work 02.08.2024\Revit C course\RevitAPI_Course\obj\x64\Debug\RevitAPI_Course.dll
+D:\Olga work 02.08.2024\Revit C course\RevitAPI_Course\obj\x64\Debug\RevitAPI_Course.pdb
